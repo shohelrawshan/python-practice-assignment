@@ -20,4 +20,3 @@ print(f"Subtraction: {sub}")
 print(f"Multiplication: {mul}")
 print(f"Division: {div}")
 
-
