@@ -1,13 +1,4 @@
-# # print("Hello world!")
-
 # # Practice Problem 2: Student Grade Calculator
-# #==============================================#
-
-# Create a Python program named grade_calculator.py that:
-# 1. Takes a student's name as input.
-# 2. Takes avg for three subjects.
-# 3. Calculates the Average avg.
-# # 4. Determines the grade using the following conditions:
 
 stuname = input("Enter student name: ")
 
